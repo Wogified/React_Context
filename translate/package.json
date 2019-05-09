@@ -2,7 +2,7 @@
   "name": "translate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Wogified.github.io/React_Context",
+  "homepage": "http://wogified.github.io/react_context",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
